@@ -15,31 +15,7 @@ Este projeto é uma API desenvolvida em ASP.NET Core 8 para gerenciar tarefas e 
 - Banco de dados SQL Server
 - Visual Studio 2022
 
-## Configuração do Projeto
 
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/Rafaelsouzabreu/UsuariosApp.git
-    ```
-
-2. Altere a string de conexão na classe `DataContext` localizada na pasta `Data` ou conforme a estrutura do seu projeto. O código na classe `DataContext` deve ficar assim:
-
-    ```csharp
-    public class DataContext : DbContext
-    {
-        public DataContext(DbContextOptions<DataContext> options) : base(options) { }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer("Server=.;Database=BDAgendaApp;Trusted_Connection=True;");
-            }
-        }
-
-        // Demais códigos
-    }
-    ```
 
 3. Execute as migrações do Entity Framework para criar o banco de dados. No Visual Studio, abra o **Console do Gerenciador de Pacotes** e rode o seguinte comando:
     ```bash
