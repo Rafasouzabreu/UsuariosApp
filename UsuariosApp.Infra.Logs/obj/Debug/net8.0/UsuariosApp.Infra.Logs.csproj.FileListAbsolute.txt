@@ -1,0 +1,12 @@
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\bin\Debug\net8.0\UsuariosApp.Infra.Logs.deps.json
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\bin\Debug\net8.0\UsuariosApp.Infra.Logs.dll
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\bin\Debug\net8.0\UsuariosApp.Infra.Logs.pdb
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\obj\Debug\net8.0\UsuariosApp.Infra.Logs.csproj.AssemblyReference.cache
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\obj\Debug\net8.0\UsuariosApp.Infra.Logs.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\obj\Debug\net8.0\UsuariosApp.Infra.Logs.AssemblyInfoInputs.cache
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\obj\Debug\net8.0\UsuariosApp.Infra.Logs.AssemblyInfo.cs
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\obj\Debug\net8.0\UsuariosApp.Infra.Logs.csproj.CoreCompileInputs.cache
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\obj\Debug\net8.0\UsuariosApp.Infra.Logs.dll
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\obj\Debug\net8.0\refint\UsuariosApp.Infra.Logs.dll
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\obj\Debug\net8.0\UsuariosApp.Infra.Logs.pdb
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Logs\obj\Debug\net8.0\ref\UsuariosApp.Infra.Logs.dll

@@ -1,0 +1,8 @@
+{
+  "UsuariosApp.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\CSharp_TQ_Noite_2024\\UsuariosApp\\UsuariosApp.API",
+  "UsuariosApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\CSharp_TQ_Noite_2024\\UsuariosApp\\UsuariosApp.Domain",
+  "UsuariosApp.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\CSharp_TQ_Noite_2024\\UsuariosApp\\UsuariosApp.Infra.Data",
+  "UsuariosApp.Infra.Logs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\CSharp_TQ_Noite_2024\\UsuariosApp\\UsuariosApp.Infra.Logs",
+  "UsuariosApp.Infra.Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\CSharp_TQ_Noite_2024\\UsuariosApp\\UsuariosApp.Infra.Messages",
+  "UsuariosApp.Infra.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\CSharp_TQ_Noite_2024\\UsuariosApp\\UsuariosApp.Infra.Security"
+}

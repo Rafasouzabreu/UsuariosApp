@@ -1,0 +1,17 @@
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net8.0\UsuariosApp.Infra.Messages.deps.json
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net8.0\UsuariosApp.Infra.Messages.dll
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net8.0\UsuariosApp.Infra.Messages.pdb
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net8.0\UsuariosApp.Infra.Messages.csproj.AssemblyReference.cache
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net8.0\UsuariosApp.Infra.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net8.0\UsuariosApp.Infra.Messages.AssemblyInfoInputs.cache
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net8.0\UsuariosApp.Infra.Messages.AssemblyInfo.cs
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net8.0\UsuariosApp.Infra.Messages.csproj.CoreCompileInputs.cache
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net8.0\UsuariosApp.Infra.Messages.dll
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net8.0\refint\UsuariosApp.Infra.Messages.dll
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net8.0\UsuariosApp.Infra.Messages.pdb
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net8.0\ref\UsuariosApp.Infra.Messages.dll
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net8.0\UsuariosApp.Domain.dll
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\obj\Debug\net8.0\UsuariosApp.Infra.Messages.csproj.CopyComplete
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net8.0\UsuariosApp.Infra.Logs.dll
+C:\CSharp_TQ_Noite_2024\UsuariosApp\UsuariosApp.Infra.Messages\bin\Debug\net8.0\UsuariosApp.Infra.Logs.pdb
